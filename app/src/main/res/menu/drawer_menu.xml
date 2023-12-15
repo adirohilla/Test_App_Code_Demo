@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_network"
+            android:icon="@drawable/ic_network"
+            android:title="@string/network" />
+        <item
+            android:id="@+id/menu_all_plans"
+            android:icon="@drawable/ic_all_plans"
+            android:title="@string/all_plans" />
+        <item
+            android:id="@+id/menu_earning"
+            android:icon="@drawable/ic_earning"
+            android:title="@string/earning" />
+        <item
+            android:id="@+id/menu_wallet"
+            android:icon="@drawable/ic_wallet"
+            android:title="@string/wallet_amp_transactions" />
+
+        <item
+            android:id="@+id/menu_shopping"
+            android:icon="@drawable/ic_shopping"
+            android:title="@string/shopping" />
+
+        <item
+            android:id="@+id/menu_contact_us"
+            android:icon="@drawable/ic_contact_us"
+            android:title="@string/contact_us" />
+
+        <item
+            android:id="@+id/menu_about_us"
+            android:icon="@drawable/ic_about_us"
+            android:title="@string/about_us" />
+        <item
+            android:id="@+id/menu_refer"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="@string/refer_earn" />
+
+        <item
+            android:id="@+id/menu_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout" />
+    </group>
+</menu>

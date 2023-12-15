@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_todays_result"
+        android:title="@string/today_s_result" />
+    <item
+        android:icon="@drawable/ic_past_result"
+        android:title="@string/past_result" />
+    <item
+        android:icon="@drawable/ic_played_games"
+        android:title="@string/played_games" />
+</menu>

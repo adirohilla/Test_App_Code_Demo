@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">PriBizz</string>
+    <string name="currency_symbol">₹</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account? <font color='#E46403'>Sign Up </font></string>
+    <string name="already_have_an_account_login_here">Already have an account? <font color='#E46403'>Login </font></string>
+    <string name="name">Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register">Register</string>
+    <string name="mobile_number_optional">Mobile Number</string>
+    <string name="referral_code_optional">Referral Code (Optional)</string>
+    <string name="play">PLAY</string>
+    <string name="bat_end_time">Bat End Time</string>
+    <string name="bat_start_time">Bat Start Time</string>
+    <string name="bidding_is_closed">Bidding is Closed</string>
+    <string name="bidding_is_open">Bidding is Open</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_sure_to_logout">Are you sure to Logout</string>
+    <string name="bet_history">Bet History</string>
+    <string name="balance_history">Balance History</string>
+    <string name="result_chart">Result Chart</string>
+    <string name="withdrawal">Withdrawal</string>
+    <string name="notifications">Notifications</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="bank_details">Bank Details</string>
+    <string name="bank_name_">BANK NAME</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="update">UPDATE</string>
+    <string name="profile">Profile</string>
+    <string name="month">MONTH</string>
+    <string name="date">Date</string>
+    <string name="market">Market</string>
+    <string name="search">Search</string>
+    <string name="reset">Reset</string>
+    <string name="date_amp_time"><![CDATA[Date & Time]]></string>
+    <string name="market_name">Market Name</string>
+    <string name="bet_type">Bet Type</string>
+    <string name="bet_digit">Bet Digit</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="minimum_amount_100_required">Minimum amount ₹ 100 required</string>
+    <string name="enter_withdrawal_amount">Enter Withdrawal Amount</string>
+    <string name="withdrawal_time_maximum_24_hours">Withdrawal Time (Maximum 24 Hours)</string>
+    <string name="submit">Submit</string>
+    <string name="bet_amount">Bet Amount</string>
+    <string name="add_amount">Add Amount</string>
+    <string name="digit">Digit</string>
+    <string name="jodi">Jodi</string>
+    <string name="haruf_andar">Haruf - Andar</string>
+    <string name="crossing">Crossing</string>
+    <string name="crossing_bet_digit">Crossing Bet Digit</string>
+    <string name="please_select_transaction_type">Please Select Transaction Type</string>
+    <string name="capture_icon">Capture Icon</string>
+    <string name="dummy_email">designerjangir@gmail.com</string>
+    <string name="transaction_type">Transaction Type</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="haruf_bahar">Haruf - Bahar</string>
+    <string name="dummy_time">11:40 AM</string>
+    <string name="xxx_xxx_xxxx">XXX-XXX-XXXX</string>
+    <string name="logo">logo</string>
+    <string name="icon_bell">icon_bell</string>
+    <string name="paytm">Paytm</string>
+    <string name="paytm_check">Paytm Check</string>
+    <string name="upi">UPI Detail</string>
+    <string name="upi_check">Upi Check</string>
+    <string name="wallet">Wallet</string>
+    <string name="today_s_result">Today\'s Result</string>
+    <string name="past_result">Past Result</string>
+    <string name="played_games">Played Games</string>
+    <string name="deposit">Deposit</string>
+    <string name="deposit_amount">Deposit Amount</string>
+    <string name="deposit_method">Deposit Method</string>
+    <string name="transfer">Transfer</string>
+    <string name="upi_utr">UPI/UTR</string>
+    <string name="step_1_transfer_to_banking"><font color='#E46403'>STEP 1:</font> Transfer to banking</string>
+    <string name="step_2"><font color='#E46403'>STEP 2:</font> Send payment successful screenshot to admin with Plan amount.\nYour plan will activate in 5 mins</string>
+    <string name="copy_from_banking_app_make_sure_to_provide_the_correct_utr">Copy from banking app. Make sure to provide the correct UTR</string>
+    <string name="upi_account">UPI Account</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="account_no">Account No.</string>
+    <string name="account_no_">ACCOUNT NO.</string>
+    <string name="account_name">Account Name</string>
+    <string name="ifsc_code">IFSC Code</string>
+    <string name="copy">Copy</string>
+    <string name="account_name_">ACCOUNT NAME</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="by_procedding_i_agree_to_the_terms_and_privacy_policy">By procedding, I agree to the <font color='#E46403'>Terms</font> and <font color='#E46403'>Privacy Policy.</font></string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="about_us">About US</string>
+    <string name="contact_us">Contact US</string>
+    <string name="shopping">Shopping</string>
+    <string name="wallet_amp_transactions"><![CDATA[Wallet & Transactions]]></string>
+    <string name="earning">Earning</string>
+    <string name="all_plans">All Plans</string>
+    <string name="network">Network</string>
+    <string name="our_customer_support_is_available_24_7">OUR CUSTOMER SUPPORT IS \nAVAILABLE 24*7</string>
+    <string name="email_support_gamercluster_com">Email: support@gamercluster.com</string>
+    <string name="pan_card">Pan Card</string>
+    <string name="enter_upi">Enter UPI</string>
+    <string name="save">Save</string>
+    <string name="pancard_number">Pancard Number</string>
+    <string name="dob">DOB</string>
+    <string name="active_now">Active Now</string>
+    <string name="activated">Activated</string>
+    <string name="payout_history">Payout History</string>
+    <string name="transactions_history">Transactions History</string>
+    <string name="investment_history">Investment History</string>
+    <string name="transactions">Transactions</string>
+    <string name="total_commissions">Total Commissions</string>
+    <string name="investment">Investment</string>
+    <string name="my_commission">My Commission</string>
+    <string name="status">Status</string>
+    <string name="kyc_verified">KYC Verified</string>
+    <string name="kyc_not_verified">KYC Required</string>
+    <string name="pan_no">PAN NO</string>
+    <string name="active_plan">Active Plan</string>
+    <string name="active_the_plan">Activate the plan</string>
+    <string name="wallet_balance">Wallet Balance</string>
+    <string name="total_investment">Total Investment</string>
+    <string name="total_return">Total Return</string>
+    <string name="refer_earn"><![CDATA[Refer & Earn]]></string>
+    <string name="reffer_msg">Refer your friends and family to get exciting investment plan. Every sucessfull referal you will get 10% of your friends first invesment. \nGrow more with PriBizz choice</string>
+
+    <string-array name="array_transaction">
+        <item>Credit</item>
+        <item>Debit</item>
+    </string-array>
+
+    <string-array name="array_time_slot">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>This Week</item>
+        <item>Last Week</item>
+        <item>Month</item>
+    </string-array>
+
+</resources>
